@@ -1,0 +1,83 @@
+body {
+    background-image:url(Images/PixelWallpaper.jpg);
+    background-color: #FFD700;
+    color: black ;
+      margin-right: auto;
+  margin-left: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  max-width: 64rem;
+}
+
+p {
+    color: rgb(124, 11, 11);
+    padding:10px;font-size:20px;font-weight: 400;
+}
+header {
+    border-top: 0px;
+    border-bottom: 3px solid #000000;
+    background-color: #ffffffa4;
+    padding:5px;font-size:20px; color:#000000;
+  }
+  
+  a.nav-title,
+  a.nav-title:visited {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    line-height: 2rem;
+  }
+  
+  section#about{
+    padding-bottom: 1rem;
+    background-color: #ffffff9f;
+  }
+  
+  #about p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 350;
+    font-size: 16px;
+    line-height: 1.5rem;
+  }
+  
+  #about a,
+  a:visited {
+    text-decoration: none;
+    color: rgb(45, 50, 94);
+    border-bottom: 1px solid;
+    border-color: #990000;
+    font-weight: 500;
+  }
+
+
+#projects h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 650;
+  font-size: 16px;
+  line-height: 1.5rem;
+}
+  
+#projects {
+    text-align: center;
+    background-color: #ffffff00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top: 3px;
+    border-bottom: 3px
+  }
+  
+section#stuff_I_liked {
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+  stuff_I_liked {
+    text-align: center;
+    background-color: #8f1f1f00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top: 3px;
+    border-bottom: 3px
+  }
+
